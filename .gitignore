@@ -1,0 +1,8 @@
+# Patientendaten - NIEMALS in Git
+NM/
+
+# Temporaere PUMA-Arbeitsordner
+pumaz-v*.log
+
+# Claude-interne Dateien
+.claude/
